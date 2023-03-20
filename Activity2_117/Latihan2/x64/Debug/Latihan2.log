@@ -1,0 +1,6 @@
+﻿  Latihan2.cpp
+D:\Tugas\Activity2_117\Latihan2\Latihan2.cpp(9,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Tugas\Activity2_117\Latihan2\Latihan2.cpp(13,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Tugas\Activity2_117\Latihan2\Latihan2.cpp(23,11): warning C4129: 'M': unrecognized character escape sequence
+D:\Tugas\Activity2_117\Latihan2\Latihan2.cpp(18,8): warning C4101: 'nilai': unreferenced local variable
+  Latihan2.vcxproj -> D:\Tugas\Activity2_117\x64\Debug\Latihan2.exe
